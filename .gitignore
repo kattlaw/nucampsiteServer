@@ -1,5 +1,5 @@
 node_modules
-bin/server.key
-bin/server.cert
+bin/
+bin/
 config.js
 .DS_Store
