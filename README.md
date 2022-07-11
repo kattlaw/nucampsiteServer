@@ -7,7 +7,6 @@ Some highlights of the application include:
 - REST API Endpoints in Express Server application
 - Use of MongoDB database with Mongoose ODM library for Schema and Model for a collection of documents
 - Interacting with the database through the Express server
-- HTTPS and Secure Communication
 - Cross-Origin Resource Sharing (CORS)
 - Third-party authentication types (OAuth with Passport and Facebook)
 
